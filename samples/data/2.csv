@@ -1,0 +1,31 @@
+filepath,gt,model,transcript
+samples/audios/gt/260-123440-0011.wav,samples/audios/prompt/260-123440-0020.wav,gt,no i've made up my mind about it if i'm mabel i'll stay down here
+samples/audios/ns2/1995-1826-0024.wav,samples/audios/prompt/1995-1826-0000.wav,ns2,the golden fleece it's the silver fleece he harkened
+samples/audios/ns2/2300-131720-0029.wav,samples/audios/prompt/2300-131720-0037.wav,ns2,hence the edison electrolytic meter is no longer used despite its excellent qualities
+samples/audios/voicecraft/1221-135767-0010.wav,samples/audios/prompt/1221-135766-0004.wav,voicecraft,she screamed and shouted too with a terrific volume of sound which doubtless caused the hearts of the fugitives to quake within them
+samples/audios/ns2/1089-134691-0022.wav,samples/audios/prompt/1089-134686-0017.wav,ns2,he stood still in deference to their calls and parried their banter with easy words
+samples/audios/valle/121-127105-0000.wav,samples/audios/prompt/121-127105-0005.wav,valle,it was this observation that drew from douglas not immediately but later in the evening a reply that had the interesting consequence to which i call attention
+samples/audios/sparktts/1320-122617-0041.wav,samples/audios/prompt/1320-122617-0026.wav,sparktts,uncas cast his skin and stepped forth in his own beautiful proportions
+samples/audios/valle/1320-122617-0009.wav,samples/audios/prompt/1320-122617-0024.wav,valle,i greatly mourn that one so well disposed should die in his ignorance and i have sought a goodly hymn can you lead me to him
+samples/audios/voicecraft/260-123286-0002.wav,samples/audios/prompt/260-123286-0013.wav,voicecraft,all my danger and sufferings were needed to strike a spark of human feeling out of him but now that i am well his nature has resumed its sway
+samples/audios/gt/121-121726-0001.wav,samples/audios/prompt/121-127105-0028.wav,gt,harangue the tiresome product of a tireless tongue
+samples/audios/diflow/1580-141084-0023.wav,samples/audios/prompt/1580-141084-0002.wav,diflow,in a few hours the examination would commence and he was still in the dilemma between making the facts public and allowing the culprit to compete for the valuable scholarship
+samples/audios/voicecraft/2300-131720-0029.wav,samples/audios/prompt/2300-131720-0037.wav,voicecraft,hence the edison electrolytic meter is no longer used despite its excellent qualities
+samples/audios/valle/121-121726-0001.wav,samples/audios/prompt/121-127105-0028.wav,valle,harangue the tiresome product of a tireless tongue
+samples/audios/voicecraft/237-134500-0036.wav,samples/audios/prompt/237-134500-0032.wav,voicecraft,i can't play with you like a little boy any more he said slowly that's what you miss marie
+samples/audios/ns2/2961-961-0014.wav,samples/audios/prompt/2961-960-0018.wav,ns2,nine thousand years have elapsed since she founded yours and eight thousand since she founded ours as our annals record
+samples/audios/oz/2961-961-0021.wav,samples/audios/prompt/2961-961-0009.wav,oz,but i would not speak at the time because i wanted to refresh my memory
+samples/audios/voicecraft/3570-5694-0022.wav,samples/audios/prompt/3570-5696-0007.wav,voicecraft,the livery becomes obnoxious to nearly all who are required to wear it
+samples/audios/ns2/1320-122617-0041.wav,samples/audios/prompt/1320-122617-0026.wav,ns2,uncas cast his skin and stepped forth in his own beautiful proportions
+samples/audios/oz/1320-122617-0009.wav,samples/audios/prompt/1320-122617-0024.wav,oz,i greatly mourn that one so well disposed should die in his ignorance and i have sought a goodly hymn can you lead me to him
+samples/audios/sparktts/2300-131720-0006.wav,samples/audios/prompt/2300-131720-0005.wav,sparktts,there seems no good reason for believing that it will change
+samples/audios/sparktts/1188-133604-0038.wav,samples/audios/prompt/1188-133604-0039.wav,sparktts,but now here is a subject of which you will wonder at first why turner drew it at all
+samples/audios/sparktts/2830-3979-0009.wav,samples/audios/prompt/2830-3980-0011.wav,sparktts,it presents like no other of luther's writings the central thought of christianity the justification of the sinner for the sake of christ's merits alone
+samples/audios/sparktts/1188-133604-0036.wav,samples/audios/prompt/1188-133604-0039.wav,sparktts,in both these high mythical subjects the surrounding nature though suffering is still dignified and beautiful
+samples/audios/voicecraft/1188-133604-0038.wav,samples/audios/prompt/1188-133604-0039.wav,voicecraft,but now here is a subject of which you will wonder at first why turner drew it at all
+samples/audios/f5/2830-3980-0062.wav,samples/audios/prompt/2830-3979-0003.wav,f5,not for a crown or a kingdom or our goodness but for our sins
+samples/audios/gt/1221-135767-0005.wav,samples/audios/prompt/1221-135766-0014.wav,gt,it was the scarlet letter in another form the scarlet letter endowed with life
+samples/audios/valle/1284-1180-0031.wav,samples/audios/prompt/1284-1180-0031.wav,valle,at the emerald city where our princess ozma lives green is the popular color
+samples/audios/f5/1320-122617-0009.wav,samples/audios/prompt/1320-122617-0024.wav,f5,i greatly mourn that one so well disposed should die in his ignorance and i have sought a goodly hymn can you lead me to him
+samples/audios/gt/3570-5694-0022.wav,samples/audios/prompt/3570-5696-0007.wav,gt,the livery becomes obnoxious to nearly all who are required to wear it
+samples/audios/diflow/2830-3979-0009.wav,samples/audios/prompt/2830-3980-0011.wav,diflow,it presents like no other of luther's writings the central thought of christianity the justification of the sinner for the sake of christ's merits alone

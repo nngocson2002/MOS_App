@@ -1,0 +1,31 @@
+filepath,gt,model,transcript
+samples/audios/valle/1089-134691-0022.wav,samples/audios/prompt/1089-134686-0017.wav,valle,he stood still in deference to their calls and parried their banter with easy words
+samples/audios/gt/1580-141084-0023.wav,samples/audios/prompt/1580-141084-0002.wav,gt,in a few hours the examination would commence and he was still in the dilemma between making the facts public and allowing the culprit to compete for the valuable scholarship
+samples/audios/voicecraft/260-123440-0011.wav,samples/audios/prompt/260-123440-0020.wav,voicecraft,no i've made up my mind about it if i'm mabel i'll stay down here
+samples/audios/ns2/1995-1826-0024.wav,samples/audios/prompt/1995-1826-0000.wav,ns2,the golden fleece it's the silver fleece he harkened
+samples/audios/oz/2830-3980-0062.wav,samples/audios/prompt/2830-3979-0003.wav,oz,not for a crown or a kingdom or our goodness but for our sins
+samples/audios/gt/260-123440-0011.wav,samples/audios/prompt/260-123440-0020.wav,gt,no i've made up my mind about it if i'm mabel i'll stay down here
+samples/audios/voicecraft/1580-141084-0002.wav,samples/audios/prompt/1580-141084-0011.wav,voicecraft,this set of rooms is quite the oldest in the college and it is not unusual for visitors to go over them
+samples/audios/oz/260-123286-0002.wav,samples/audios/prompt/260-123286-0013.wav,oz,all my danger and sufferings were needed to strike a spark of human feeling out of him but now that i am well his nature has resumed its sway
+samples/audios/oz/1089-134686-0005.wav,samples/audios/prompt/1089-134686-0037.wav,oz,the music came nearer and he recalled the words the words of shelley's fragment upon the moon wandering companionless pale for weariness
+samples/audios/sparktts/1284-1180-0031.wav,samples/audios/prompt/1284-1180-0031.wav,sparktts,at the emerald city where our princess ozma lives green is the popular color
+samples/audios/ns2/3570-5694-0022.wav,samples/audios/prompt/3570-5696-0007.wav,ns2,the livery becomes obnoxious to nearly all who are required to wear it
+samples/audios/voicecraft/1580-141084-0023.wav,samples/audios/prompt/1580-141084-0002.wav,voicecraft,in a few hours the examination would commence and he was still in the dilemma between making the facts public and allowing the culprit to compete for the valuable scholarship
+samples/audios/f5/121-121726-0001.wav,samples/audios/prompt/121-127105-0028.wav,f5,harangue the tiresome product of a tireless tongue
+samples/audios/gt/1089-134686-0005.wav,samples/audios/prompt/1089-134686-0037.wav,gt,the music came nearer and he recalled the words the words of shelley's fragment upon the moon wandering companionless pale for weariness
+samples/audios/voicecraft/2094-142345-0036.wav,samples/audios/prompt/2094-142345-0024.wav,voicecraft,nay dear aunt you never heard me say that all people are called to forsake their work and their families
+samples/audios/gt/2961-961-0014.wav,samples/audios/prompt/2961-960-0018.wav,gt,nine thousand years have elapsed since she founded yours and eight thousand since she founded ours as our annals record
+samples/audios/f5/121-127105-0000.wav,samples/audios/prompt/121-127105-0005.wav,f5,it was this observation that drew from douglas not immediately but later in the evening a reply that had the interesting consequence to which i call attention
+samples/audios/oz/3570-5695-0011.wav,samples/audios/prompt/3570-5696-0010.wav,oz,it is evident therefore that the present trend of the development is in the direction of heightening the utility of conspicuous consumption as compared with leisure
+samples/audios/gt/121-127105-0000.wav,samples/audios/prompt/121-127105-0005.wav,gt,it was this observation that drew from douglas not immediately but later in the evening a reply that had the interesting consequence to which i call attention
+samples/audios/diflow/121-121726-0001.wav,samples/audios/prompt/121-127105-0028.wav,diflow,harangue the tiresome product of a tireless tongue
+samples/audios/valle/2830-3980-0062.wav,samples/audios/prompt/2830-3979-0003.wav,valle,not for a crown or a kingdom or our goodness but for our sins
+samples/audios/ns2/1188-133604-0036.wav,samples/audios/prompt/1188-133604-0039.wav,ns2,in both these high mythical subjects the surrounding nature though suffering is still dignified and beautiful
+samples/audios/sparktts/1580-141084-0002.wav,samples/audios/prompt/1580-141084-0011.wav,sparktts,this set of rooms is quite the oldest in the college and it is not unusual for visitors to go over them
+samples/audios/oz/2094-142345-0051.wav,samples/audios/prompt/2094-142345-0027.wav,oz,no thank you i'll just look at the whelps and leave a message about them with your shepherd
+samples/audios/valle/1284-1180-0002.wav,samples/audios/prompt/1284-1180-0028.wav,valle,instead of shoes the old man wore boots with turnover tops and his blue coat had wide cuffs of gold braid
+samples/audios/diflow/1284-1180-0031.wav,samples/audios/prompt/1284-1180-0031.wav,diflow,at the emerald city where our princess ozma lives green is the popular color
+samples/audios/sparktts/2094-142345-0051.wav,samples/audios/prompt/2094-142345-0027.wav,sparktts,no thank you i'll just look at the whelps and leave a message about them with your shepherd
+samples/audios/gt/2094-142345-0036.wav,samples/audios/prompt/2094-142345-0024.wav,gt,nay dear aunt you never heard me say that all people are called to forsake their work and their families
+samples/audios/f5/1284-1180-0002.wav,samples/audios/prompt/1284-1180-0028.wav,f5,instead of shoes the old man wore boots with turnover tops and his blue coat had wide cuffs of gold braid
+samples/audios/sparktts/2961-961-0014.wav,samples/audios/prompt/2961-960-0018.wav,sparktts,nine thousand years have elapsed since she founded yours and eight thousand since she founded ours as our annals record
